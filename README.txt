@@ -1,9 +1,7 @@
 Izhlal Maulana Portfolio
-Using Template website Dimension by HTML5 UP
-
 
 Credits:
-	
+	HTML 5UP
 	AJ
 	aj@lkn.io | @ajlkn
 
